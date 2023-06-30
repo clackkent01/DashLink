@@ -4,7 +4,6 @@ from .extensions import db, bcrypt, login_manager, migrate
 from .routes import short
 from dotenv import load_dotenv
 
-
 login_manager.login_view = 'short.login'
 
 

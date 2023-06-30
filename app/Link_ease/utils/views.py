@@ -48,7 +48,7 @@ def fresh_login_required(f):
 #         img = Image.open(BytesIO(response.content))
 
 #         # Save the image to a file
-#         image_folder = "C://Users//User//Desktop//Repos//Scissors//app//DashLlink//static//image"
+#         image_folder = "C://Users//User//Desktop//Repos//Scissors//app//app//static//image"
 #         # Generate a unique filename for the image based on the URL
 #         # url_hash = hashlib.md5(url.encode()).hexdigest()
         
